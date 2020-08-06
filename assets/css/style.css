@@ -1,0 +1,63 @@
+/*===== Basic Styles ======*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #E5E5E5;
+    margin: 0 auto;
+
+}
+
+/*===== Main Content Styles ======*/
+
+/*=====Button Styles ======*/
+.add-mentor-btn {
+    background: #D9FFEF;
+    border: 0.5px solid #00C16E;
+    width: 142px;
+    height: 36px;
+    border-radius: 5px;
+    color: #00C16E;
+}
+
+.sub-mentor-btn {
+    background: #FFEBEB;
+    border: 0.5px solid #F8444F;
+    width: 103px;
+    height: 36px;
+    border-radius: 5px;
+    color: #F8444F;
+}
+
+/*===== Mentor List Table Styles ======*/
+table {
+    background: #FFFFFF;
+    border: 0.5px solid #CCCCCC;
+    border-radius: 5px;
+    width: 59% !important;
+}
+
+table thead {
+    background: rgba(0, 0, 0, 0.01);
+    border-radius: 5px 5px 0px 0px;
+    padding: 0px;
+}
+
+.edit-profile-btn {
+    background: #FCFCFC;
+    border: 1px solid #D1D1D1;
+    width: 127px;
+    height: 36px;
+    border-radius: 4px;
+}
+
+/*=====Mentors profile Styles ======*/
+.mentorProfile table {
+    background: #FFFFFF;
+    border: 0.5px solid #CCCCCC;
+    border-radius: 5px;
+    width: 29% !important;
+}
